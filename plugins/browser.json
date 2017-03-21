@@ -15,7 +15,17 @@
         },
         "cordova-plugin-statusbar": {
             "PACKAGE_NAME": "com.phonegap.dolsingtest"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "com.phonegap.dolsingtest"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "com.phonegap.dolsingtest"
         }
     },
-    "dependent_plugins": {}
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "com.phonegap.dolsingtest"
+        }
+    }
 }
